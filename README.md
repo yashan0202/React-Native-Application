@@ -1,4 +1,4 @@
-React Native Application End-to-End Testing with Maestro
+<h1>React Native Application End-to-End Testing with Maestro</h1>
 
 This repository contains an example React Native application along with comprehensive end-to-end tests written using Maestro. Follow the steps below to set up the environment, write tests, and document the process.
 
