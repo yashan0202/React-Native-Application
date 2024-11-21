@@ -77,3 +77,5 @@ test('renders app correctly', async () => {
         <li>Install Maestro and write tests for key functionalities of your application.</li>
         <li>Refer to the attached documentation (<em>Midas Lab (Yash Anand).pdf</em>) for additional guidance.</li>
     </ol>
+
+  <h2> Developed by: Yash Anand </h2>
