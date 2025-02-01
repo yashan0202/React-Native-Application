@@ -78,4 +78,4 @@ test('renders app correctly', async () => {
         <li>Refer to the attached documentation (<em>Midas Lab (Yash Anand).pdf</em>) for additional guidance.</li>
     </ol>
 
-  <h2> Developed by: Yash Anand </h2> 
+  <h2> Developed by: Yash Anand</h2> 
